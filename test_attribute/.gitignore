@@ -1,0 +1,5 @@
+packages/*
+pubspec.lock
+app.dart.js
+app.dart.js.map
+*~
